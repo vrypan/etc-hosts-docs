@@ -1,2 +1,2 @@
 # etc-hosts-public
-Issues and documentation for etc-hosts.com
+Issues and documentation for https://etc-hosts.com
