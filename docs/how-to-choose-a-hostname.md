@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to choose a hostname
-nav_order: 2
+nav_order: 1
 ---
 
 # Hostname selection
@@ -20,7 +20,7 @@ Examples of valid hostnames:
 - `01.myhost.etc-hosts.net`
 - `router.myhost.etc-hosts.net`
 
-Right now, you are only given the option to select hostnames under the `.etc-hosts.**net**` domain (please note the .net tld),
+Right now, you are only given the option to select hostnames under the `.etc-hosts.net` domain (please note the .net tld),
 but I intend to offer more options in the future.
 
 Also note that each hostname can have an A (i.e. IPv4), an AAAA (i.e. IPv6) and a TXT value.
