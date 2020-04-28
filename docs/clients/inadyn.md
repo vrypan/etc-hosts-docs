@@ -19,6 +19,7 @@ Set:
 - `ddns-path = "v3/update?hostname=%h&myip=%i"`
 
 Example of /etc/inadyn.conf 
+
 ```
 # /etc/inadyn.conf 
 
