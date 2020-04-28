@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The etc-hosts.com API
+parent: APIs
 nav_order: 1
 ---
 
