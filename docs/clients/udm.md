@@ -18,6 +18,6 @@ Set:
 - *Hostname* to your etc-hosts hostname
 - *Username* to *etc*
 - *Password* to your host's API key
-- *Server * to *dyndns2.etc-hosts.com/nic/update?hostname=%h&myip=%i*
+- *Server* to *dyndns2.etc-hosts.com/nic/update?hostname=%h&myip=%i*
 
-![screenshot](./udm-screenshot.png)
+![screenshot](/assets/images/udm-screenshot.png)
