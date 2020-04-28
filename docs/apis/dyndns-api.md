@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Support for the DynDNS API
+title: Support for the Dyn API
 parent: APIs
 nav_order: 2
 ---
 
-# Support for the DynDNS API
+# Support for the Dyn API
 {: .no_toc }
 
-etc-hosts supports a subset of the Dyn [Perform Update (RA-API)](https://help.dyn.com/remote-access-api/perform-update/).
+etc-hosts supports a subset of the popular [Dyn Perform Update (RA-API)](https://help.dyn.com/remote-access-api/perform-update/). (Sometimes also refered to as DynDNS.org API.)
 
 If you use this API, you must set:
 
