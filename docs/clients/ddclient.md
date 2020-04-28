@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ddclient
-parent: clients
+parent: Clients and services
 nav_order: 1
 ---
 

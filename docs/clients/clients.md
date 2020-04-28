@@ -7,5 +7,6 @@ permalink: docs/clients
 ---
 
 # Clients
+{: .no_toc }
 
 How to configure various dynamic DNS clients, apps and services.
