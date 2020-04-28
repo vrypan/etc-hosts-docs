@@ -1,10 +1,10 @@
 ---
 layout: default
-title: How to choose a hostname
+title: Hostnames
 nav_order: 1
 ---
 
-# Hostname selection
+# Hostnames in etc-hosts.com
 {: .no_toc }
 
 etc-hosts allows you to associate your IP with a hostname like `your-fancy-hostname.etc-hosts.net`.

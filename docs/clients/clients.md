@@ -1,12 +1,11 @@
 ---
 layout: default
-title: APIs
-nav_order: 2
+title: Clients and services
+nav_order: 3
 has_children: true
-permalink: docs/apis
+permalink: docs/clients
 ---
 
-# APIs
-{: .no_toc }
+# Clients
 
-There are a number of ways to update your hostnames.
+How to configure various dynamic DNS clients, apps and services.
