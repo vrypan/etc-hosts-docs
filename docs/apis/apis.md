@@ -9,4 +9,4 @@ permalink: docs/apis
 # APIs
 {: .no_toc }
 
-There are a number of ways to update your hostnames.
+etc-hosts supports the native etc-hosts APi and the Dyn RA-API.
