@@ -16,8 +16,10 @@ Set:
 
 - *Service* to *dyndns*
 - *Hostname* to your etc-hosts hostname
-- *Username* to *etc*
+- *Username* to `etc`
 - *Password* to your host's API key
-- *Server* to *dyndns2.etc-hosts.com/nic/update?hostname=%h&myip=%i*
+- *Server* to `dyndns2.etc-hosts.com/\/nic/update?hostname=%h&myip=%i`
+
+(If the last step seems unusual, the reason a bug in UDM.)
 
 ![screenshot](/assets/images/udm-screenshot.png)
